@@ -1,0 +1,6 @@
+name: MicroGames
+version: '${project.version}'
+main: net.skret.microgames.MicroGames
+api-version: 1.19
+authors: [ MCreeper12731 ]
+description: A simple team PvP minigame to test functionality
